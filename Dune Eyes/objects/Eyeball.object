@@ -1,0 +1,83 @@
+{
+  "modelName": "master3_d_object_model",
+  "name": "Eyeball",
+  "identifier": "master3_d_object_model:10936-3eee5f73-0fac-429b-8391-5ece91bfa194",
+  "sourceIdentifier": "asset_collection_model:10940-3eee5f73-0fac-429b-8391-5ece91bfa194",
+  "animationMask": {
+    "position": false,
+    "rotation": false,
+    "scale": false
+  },
+  "cameraVisibility": "back|front",
+  "globalScaleFactor": 1,
+  "hidden": false,
+  "layerIdentifier": "main_layer",
+  "outputVisibility": "preview|capture",
+  "physicsEnabled": false,
+  "tags": [],
+  "transform": {
+    "rx": 0,
+    "ry": 0,
+    "rz": 0,
+    "sx": 1,
+    "sy": 1,
+    "sz": 1,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "children": [
+    {
+      "modelName": "mesh",
+      "name": "eyeball",
+      "identifier": "mesh:10925-3eee5f73-0fac-429b-8391-5ece91bfa194",
+      "animationMask": {
+        "position": false,
+        "rotation": false,
+        "scale": false
+      },
+      "cameraVisibility": "back|front",
+      "castShadow": false,
+      "hidden": false,
+      "layerIdentifier": "main_layer",
+      "outputVisibility": "preview|capture",
+      "physicsEnabled": false,
+      "prefabIdentifier": "gltf:10931-3eee5f73-0fac-429b-8391-5ece91bfa194",
+      "receiveShadow": false,
+      "renderPass": "main_scene",
+      "tags": [],
+      "transform": {
+        "rx": 0,
+        "ry": 0,
+        "rz": 0,
+        "sx": 1,
+        "sy": 1,
+        "sz": 1,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "useEmbeddedBlendshapes": false,
+      "children": [
+        {
+          "modelName": "surfaces",
+          "identifier": "surfaces:10927-3eee5f73-0fac-429b-8391-5ece91bfa194",
+          "children": [
+            {
+              "modelName": "surface",
+              "name": "surface0",
+              "identifier": "surface:10934-3eee5f73-0fac-429b-8391-5ece91bfa194",
+              "isMaterialIdentifierEnabled": true,
+              "materialIdentifier": "dependent_metallic_roughness_p_b_r_material_model:10923-3eee5f73-0fac-429b-8391-5ece91bfa194",
+              "surfaceGroupIdentifier": ""
+            }
+          ]
+        },
+        {
+          "modelName": "blend_shapes_model",
+          "identifier": "blend_shapes_model:10929-3eee5f73-0fac-429b-8391-5ece91bfa194"
+        }
+      ]
+    }
+  ]
+}

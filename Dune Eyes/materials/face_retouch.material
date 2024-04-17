@@ -1,0 +1,28 @@
+{
+  "modelName": "retouchingMaterial",
+  "name": "face_retouch",
+  "identifier": "retouchingMaterial:52140-7d679168-ea3a-462c-8ccd-a4fff6f6eff2",
+  "alphaTestEnabled": false,
+  "alphaTestThreshold": 0,
+  "cullMode": "back",
+  "diffuseTextureName": "texture:52144-7d679168-ea3a-462c-8ccd-a4fff6f6eff2",
+  "diffuseTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "doubleSided": false,
+  "fullFrameSmoothing": true,
+  "importIssues": {},
+  "isDiffuseTextureIdentifierEnabled": true,
+  "readDepth": true,
+  "smoothingFactor": 0.25,
+  "transparency": 1,
+  "writeDepth": true,
+  "writesToColorBufferAlpha": true,
+  "writesToColorBufferBlue": true,
+  "writesToColorBufferGreen": true,
+  "writesToColorBufferRed": true
+}
